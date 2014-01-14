@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2E6B41BC-3D6F-472E-AC44-A4DEFC69C3C2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>InsecureCryptographyDecryptor</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>35635221-4D01-4D4E-95AD-611F03617E38</key>
+		<string>https://github.com/prateek147/InsecureCryptographyDecryptor.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>InsecureCryptographyDecryptor/InsecureCryptographyDecryptor.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>35635221-4D01-4D4E-95AD-611F03617E38</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/prateek147/InsecureCryptographyDecryptor.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>35635221-4D01-4D4E-95AD-611F03617E38</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>35635221-4D01-4D4E-95AD-611F03617E38</string>
+			<key>IDESourceControlWCCName</key>
+			<string>InsecureCryptographyDecryptor</string>
+		</dict>
+	</array>
+</dict>
+</plist>
